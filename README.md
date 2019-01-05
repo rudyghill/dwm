@@ -55,3 +55,4 @@ and (re)compiling the source code.
 - autostart
 - horizontal grid mode
 - three column mode
+- cycle layouts
