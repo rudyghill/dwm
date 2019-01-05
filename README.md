@@ -51,6 +51,7 @@ The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
 
 ## Patches Applied
-attachbottom
-autostart
-horizontal grid
+- attachbottom
+- autostart
+- horizontal grid mode
+- three column mode
