@@ -56,3 +56,4 @@ and (re)compiling the source code.
 - horizontal grid mode
 - three column mode
 - cycle layouts
+- useless gaps
