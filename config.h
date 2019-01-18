@@ -94,6 +94,7 @@ static Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 	{ MODKEY,                       XK_x,      spawn,          SHCMD("slock") },
 	{ MODKEY|ShiftMask,             XK_x,      quit,           {0} },
+	{ MODKEY,                       XK_m,      spawn,          SHCMD("st -e ncmpcpp") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
