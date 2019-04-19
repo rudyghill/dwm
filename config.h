@@ -6,7 +6,7 @@ static const unsigned int gappx     = 5;
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "mono:size=14" };
+static const char *fonts[]          = { "monospace:size=14" };
 static const char dmenufont[]       = "mono:size=14";
 static const char col_gray1[]       = "#000000";
 static const char col_gray2[]       = "#000000";
