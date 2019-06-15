@@ -11,11 +11,11 @@ static const char dmenufont[]       = "mono:size=14";
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
-	[SchemeNorm] = { "#cccccc", "#000000", "#000000"},
-	[SchemeSel]  = { "#ffffff", "#268bd2", "#268bd2"},
-	[SchemeWarn] = { "#dc322f", "#000000", "#000000"},
-	[SchemeUrgent] ={"#b58900", "#000000", "#000000"},
-	[SchemeGood] = { "#859900", "#000000", "#000000"},
+	[SchemeNorm] = { "#ebdbb2", "#1d2021", "#1d2021"},
+	[SchemeSel]  = { "#ffffff", "#458588", "#458588"},
+	[SchemeWarn] = { "#dc322f", "#1d2021", "#1d2021"},
+	[SchemeUrgent] ={"#b58900", "#1d2021", "#1d2021"},
+	[SchemeGood] = { "#859900", "#1d2021", "#1d2021"},
 };
 
 /* tagging */
